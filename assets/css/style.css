@@ -370,6 +370,19 @@ a:hover, a:active, a:focus {
   padding: 0 16px;
 }
 
+.inicio-card {
+  padding: 16px;
+  margin-top: 2%;
+}
+
+.inicio-card .card-body img {
+  width: 100%;
+}
+
+.inicio-card .card-body h2 {
+  margin-top: 10px;
+}
+
 .section.full {
   padding: 0;
 }
@@ -6988,8 +7001,12 @@ body.dark-mode .action-button-list > li.action-divider {
   background: #2d1f3b;
 }
 
-body.dark-mode .card {
+/* body.dark-mode .card {
   background: #161129;
+} */
+
+body.dark-mode .card {
+  background: #3F3F3F;
 }
 
 body.dark-mode .card .card-subtitle,

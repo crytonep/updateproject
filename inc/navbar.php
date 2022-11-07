@@ -1,27 +1,35 @@
+    <!-- app footer -->
+    <div class="appFooter">
+        <div class="footer-title">
+            Mega Deportes 2022 © Todos los derechos reservados.
+        </div>
+        DMCA
+    </div>
+    <!-- * app footer -->
     <!-- App Bottom Menu -->
     <div class="appBottomMenu">
         <a href="index.html" class="item active">
             <div class="col">
-                <ion-icon name="pie-chart-outline"></ion-icon>
-                <strong>Overview</strong>
+                <ion-icon name="home-outline"></ion-icon>
+                <strong>Incio</strong>
             </div>
         </a>
         <a href="app-pages.html" class="item">
             <div class="col">
-                <ion-icon name="document-text-outline"></ion-icon>
-                <strong>Pages</strong>
+                <ion-icon name="football-outline"></ion-icon>
+                <strong>Fútbol</strong>
             </div>
         </a>
         <a href="app-components.html" class="item">
             <div class="col">
-                <ion-icon name="apps-outline"></ion-icon>
-                <strong>Components</strong>
+                <ion-icon name="chatbox-ellipses-outline"></ion-icon>
+                <strong>Chat</strong>
             </div>
         </a>
         <a href="app-cards.html" class="item">
             <div class="col">
-                <ion-icon name="card-outline"></ion-icon>
-                <strong>My Cards</strong>
+                <ion-icon name="basketball-outline"></ion-icon>
+                <strong>Basketball</strong>
             </div>
         </a>
         <a href="app-settings.html" class="item">

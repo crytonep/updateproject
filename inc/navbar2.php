@@ -1,3 +1,11 @@
+    <!-- app footer -->
+    <div class="appFooter">
+        <div class="footer-title">
+            Copyright © Finapp 2021. All Rights Reserved.
+        </div>
+        Bootstrap 5 based mobile template.
+    </div>
+    <!-- * app footer -->
     <!-- App Bottom Menu -->
     <div class="appBottomMenu">
         <a id="home" href="javascript:void(0)" class="item active">
