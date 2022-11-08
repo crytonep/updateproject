@@ -6829,7 +6829,8 @@ body.dark-mode .listview-title {
 
 body.dark-mode .listview {
   color: #fff;
-  background: #161129;
+  /* background: #161129; */
+  background: #3F3F3F;
   border-top-color: #2d1f3b;
   border-bottom-color: #2d1f3b;
 }
@@ -6900,11 +6901,13 @@ body.dark-mode .image-listview.media > li {
 body.dark-mode .accordion {
   border-top-color: #2d1f3b;
   border-bottom-color: #2d1f3b;
-  background: #161129;
+  /* background: #161129; */
+  background: #3F3F3F;
 }
 
 body.dark-mode .accordion .accordion-body {
-  background: #161129;
+  /* background: #161129; */
+  background: #3F3F3F;
 }
 
 body.dark-mode .accordion .accordion-header .btn,
