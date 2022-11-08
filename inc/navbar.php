@@ -8,7 +8,12 @@
     <!-- * app footer -->
     <!-- App Bottom Menu -->
     <div class="appBottomMenu">
-        <a href="<?=$app?>" class="item">
+        <a href="<?=$app?>" class="item
+        <?php
+        if($actual_link == $app) {
+            echo "active";
+        } else {}
+        ?>">
             <div class="col">
                 <ion-icon name="home-outline"></ion-icon>
                 <strong>Incio</strong>

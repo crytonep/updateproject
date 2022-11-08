@@ -13,7 +13,7 @@
     <link rel="icon" type="image/png" href="<?=$app?>assets/img/favicon.png" sizes="32x32">
     <link rel="apple-touch-icon" sizes="180x180" href="<?=$app?>assets/img/icon/192x192.png">
     <link rel="stylesheet" href="<?=$app?>assets/css/style.css">
-    <!-- <link rel="stylesheet" href="assets/css/events.css"> -->
+    <link rel="stylesheet" href="assets/css/events.css">
     <link rel="stylesheet" href="<?=$app?>assets/css/slider.css">
     <link rel="manifest" href="__manifest.json">
 </head>
