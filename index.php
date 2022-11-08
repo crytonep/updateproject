@@ -1,6 +1,5 @@
 <?php
-include('conn.php');
-include('inc/header.php');
+include('conn.php'); include('inc/header.php');
 ?>
 <!-- App Capsule -->
 <div class="container" id="appCapsule">
