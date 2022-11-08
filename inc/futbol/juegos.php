@@ -20,6 +20,7 @@ $liga = $result['ligaName'];
         $local = $result['local'];
         $visita = $result['visita'];
         $fecha = $result['fecha'];
+        include('teams.php');
     ?>
 
         <!-- Elemento -->
