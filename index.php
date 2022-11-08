@@ -15,4 +15,3 @@ include('inc/header.php');
 <!-- * App Capsule -->
 
 <?php include('inc/navbar.php'); ?>
-<script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
